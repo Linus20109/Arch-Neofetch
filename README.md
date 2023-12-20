@@ -1,4 +1,3 @@
-
 # Arch-Neofetch
 
 This is a neofetch config file that makes it look like you're running Arch Linux all though you might not be.
@@ -16,7 +15,7 @@ This is a neofetch config file that makes it look like you're running Arch Linux
 
 ## Installation
 
-Install the config
+Linux
 
 ```bash
 • Install Neofetch
@@ -24,4 +23,11 @@ Install the config
 • cd Arch-Neofetch
 • ./install.sh
 ```
-    
+Windows
+
+```bash
+• Install Neofetch
+• Download Arch-Neofetch zip file
+• Unzip
+• copy config.conf to your Neofetch directory
+```
