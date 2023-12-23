@@ -1,1 +1,1 @@
-cp config.conf ~/.config/neofetch
+cp /home/linus/Arch-Neofetch/Theme/config.conf ~/.config/neofetch
